@@ -20,8 +20,6 @@ Fun fact: My mom's ID was my inspiration for my design
 
 ## Instructions
 
-<hr/>
-
 1. First, you should install Python first, before following these procedures else IT WOULD NOT WORK. To install Python click [this link](https://www.python.org/downloads/) and download the latest version. Then click the green "Code" button, then after that, you will see a dropdown menu, click "Download Zip" then unzip it, after you unzip it and have Python installed, go to the next step
 2. Run the program via
    ```
