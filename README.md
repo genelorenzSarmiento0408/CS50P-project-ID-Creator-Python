@@ -4,8 +4,6 @@
 
 ## Description
 
-<hr/>
-
 This is my final project on CS50P named ID Creator for Businesses and Employees, as the name itself implies, it will create an ID for you. It can help businesses and employees to create an ID easily. It is available on 2 formats: png and pdf. Before you use this program, please take note that this program only creates a Business ID, not an individual ID (e.g. national ID), and also it does not generate your signature. The project also has a test, if you want to test it
 
 Tip: you can put your logo on any of the corners
